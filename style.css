@@ -8,7 +8,7 @@ body {
 .container {
   background: white;
   padding: 40px;
-  max-width: 600px;
+  max-width: 700px;
   margin: auto;
   border-radius: 10px;
   box-shadow: 0 0 10px #ccc;
@@ -23,4 +23,10 @@ nav a {
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
+}
+ul {
+  text-align: left;
+  display: inline-block;
+  margin: 0 auto;
+  padding-left: 0;
 }
